@@ -6,4 +6,4 @@ app.listen(port,()=>{
     console.log('Rodando servidor na porta '+ port)
 })
 
-console.log
+console.log('Ola, mundo')
